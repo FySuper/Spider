@@ -1,0 +1,15 @@
+{
+  "name": "Spider",
+  "version": "0.0.9",
+  "description": "Try to imporve something that the reptile  project~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qv",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.0.33",
+    "superagent": "^1.2.0"
+  }
+}
